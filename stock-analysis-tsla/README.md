@@ -35,9 +35,3 @@ stock-analysis-tsla/
 │
 ├── README.md                 # Hướng dẫn chạy code và mô tả báo cáo
 └── requirements.txt          # Liệt kê thư viện cần cài (yfinance, pandas, seaborn,...)
-
-## 🔗 Đường dẫn báo cáo Notion:
-[Link đến báo cáo Notion](https://your-notion-link)
-
-## 📅 Deadline:
-20/06/2025 – trước 17h.
